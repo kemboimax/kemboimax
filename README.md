@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=180&section=header&text=kemboimax&fontSize=48&fontAlignY=40&desc=Byte%20Me%20%E2%80%93%20I%20Speak%20in%201s%20and%200s&descSize=24&descAlign=62" alt="kemboimax banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=180&section=header&text=Kibet Kemboi&fontSize=48&fontAlignY=40&desc=Byte%20Me%20%E2%80%93%20I%20Speak%20in%201s%20and%200s&descSize=24&descAlign=62" alt="kemboimax banner"/>
 </p>
 
 <p align="center">
